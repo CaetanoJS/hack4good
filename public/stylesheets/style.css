@@ -42,7 +42,17 @@ h4 {
 }
 
 .logo-img{
-  width: 70px;
+  width: 80px;
+}
+
+#navbar-links{
+  background-color: rgb(82,153,149,0.1);
+  font-weight: bold;
+}
+
+.footer-tyle{
+  padding-bottom: 5%;
+  margin-left: 15%
 }
 
 .navbar-content{
@@ -73,9 +83,18 @@ h4 {
   color:white;
 }
 
-#home, #be-a-volunteer, #donate-a-thing{ 
+#home, #be-a-volunteer, #donate-a-thing, #footer{ 
   color: #529995;
 }
+
+.nav-margin{
+  margin: 0 10px;
+}
+
+.links-style{
+  color: #529995;
+}
+
 .margin-format{
   margin: 0 15%;
   display: block;
@@ -83,6 +102,11 @@ h4 {
 
 .align-images-center{
   text-align: center;
+}
+
+.format-list{
+  padding-left: 0;
+  list-style: none;
 }
 
 .image-names {
