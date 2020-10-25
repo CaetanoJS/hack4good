@@ -1,0 +1,120 @@
+body {
+  padding: 0;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  background-color: #f5f6f5;
+}
+
+a {
+  color: #00B7FF;
+}
+
+h1{
+  text-align: center;
+  font-size: 3.5rem;
+  margin-bottom: 25px;
+}
+
+.site-max-content{
+  max-width: 1200px;
+  margin: auto;
+}
+
+.max-width-div{
+  width: 100%;
+}
+
+.padding-top {
+  padding: 10% 0 0;
+}
+
+#about-us{
+  color: white;
+  background-color: #529995;
+}
+
+.div-aling-self{
+  align-self: center;
+}
+
+
+h4 {
+  padding: 0 10%;
+}
+
+.logo-img{
+  width: 70px;
+}
+
+.navbar-content{
+  display: contents;
+}
+
+.logo-img-content{
+  width: 20%;
+  display:block;
+  margin: auto;
+}
+
+.auto-margin{
+    margin:auto;
+}
+
+.container-margin-bottom{
+  margin-bottom: 10%;
+}
+
+.fit-images{
+  width: 100%;
+  border-radius: 5%;
+}
+
+#donate-a-value{
+  background-color: #529995;
+  color:white;
+}
+
+#home, #be-a-volunteer, #donate-a-thing{ 
+  color: #529995;
+}
+.margin-format{
+  margin: 0 15%;
+  display: block;
+}
+
+.align-images-center{
+  text-align: center;
+}
+
+.image-names {
+  display: block;
+  margin-top: 20px;
+  font-size: 16px;;
+}
+
+.see-more-button{
+  background-color:#529995;
+  border-radius: 8px;
+  border: none;
+  color: white;
+  padding: 20px 70px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 25px;
+  margin: 4px 2px;
+}
+
+.white-button{
+  background-color: white;
+  color: #529995;
+}
+
+.format-rouded-images{
+  margin-top: 15%;
+  width: 60%;
+  border-radius: 100%;
+}
+
+.auto-margin-left{
+  margin-left:auto;
+}
